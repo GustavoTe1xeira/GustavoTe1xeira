@@ -28,6 +28,11 @@ Atualmente atuando como Desenvolvedor Backend no Comando Geral da Policia Milita
 
 ## 🚀 Projetos em Destaque
 
+### [Sistema MultiAgentico de IA ](https://github.com/GustavoTeixeiraBittencourt/processo-seletivo-2026)
+**Descrição breve do projeto** - Sistema MultiAgentico de Inteligência Artificial criado para responder perguntas sobre o corpus de uma determinada documentação, no caso do projeto desenvolvido por mim foi consumido parte da documentação do LangGraph.
+- 🛠️ Tecnologias: Python,LangGraph,ChromaDB,Tavily (em caso de fallback),  Groq (llama-3.1-8b-instant), Embeddings: intfloat/multilingual-e5-small (CPU), Docker
+- ⭐ Destaques: Leitura de Markdown, Busca web em caso de fallback, Integração com banco de dados vetorial,utilizaçao da api do Groq, Interface gráfica, 6 agentes com papeis diferentes, Pipelines de Ingestão e consulta, busca lexica(BM25 + RRf), Deploy em docker
+
 ### [RAG- Langchain e chromadb](https://github.com/GustavoTeixeiraBittencourt/rag-langchain-chromadb)
 **Descrição breve do projeto** - Projeto educacional para aprender na prática como construir um sistema de RAG (Retrieval-Augmented Generation) — uma técnica que permite fazer perguntas sobre documentos usando LLMs, com objetivo de fortalecer os meus conhecimentos em Inteligência Artificial(IA).
 - 🛠️ Tecnologias: Python,LangChain,ChromaDB, 
