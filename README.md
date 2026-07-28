@@ -1,13 +1,13 @@
 # Gustavo Teixeira Bittencourt de Oliveira
 
-**Desenvolvedor Backend | Atualmente estudando Data Analytics/GenAI**
+**Software Engineer | Atualmente estudando MLOps/GenAI**
 
 ---
 
 ## 👋 Sobre Mim
 
 Graduando e representante do Oitavo período de Engenharia da computação Centro Universitário do Estado do Pará(CESUPA).
-Atualmente atuando como Desenvolvedor Backend no Comando Geral da Policia Militar do estado do Pará, desenvolvendo soluções que otimizam o trabalho da equipe.
+Atuando como Software Engineer no Comando Geral da Policia Militar do estado do Pará, desenvolvendo soluções que otimizam o trabalho da equipe. Atualmente estudando e desenvolvendo projetos sobre Inteligência Artificial e Machine learning Operations(MLOps), áreas na qual possuo interesse em atuar e contribuir futuramente.
 
 
 ---
