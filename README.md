@@ -15,14 +15,23 @@ Atuando como Software Engineer no Comando Geral da Policia Militar do estado do 
 ## 💼 Habilidades Técnicas
 
 ### **Backend**
-[![My Skills](https://skillicons.dev/icons?i=java,python,nodejs,arduino,typescript,c,&theme=dark)](https://skillicons.dev)
+- IA Generativa & LLMs: Engenharia de Prompts, Machine Learning, LLMs, APIs de Modelos de IA (OpenAI API, Groq),
+RAG (Retrieval-Augmented Generation), Sistemas Multiagente, LangChain, LangGraph, ChromaDB, Embeddings, Busca
+Semântica, Busca Híbrida (BM25 + RRF)
+- Linguagens & Análise de Dados: Python, Pandas, NumPy, análise exploratória de dados (EDA), limpeza e manipulação de
+bases de dados, Web Scraping
+- Bancos de Dados: PostgreSQL, MySQL, SQL, modelagem relacional, bancos vetoriais
+- Desenvolvimento Backend: Node.js, TypeScript, Fastify, REST APIs, JWT
 
 ### **Frontend**
-[![My Skills](https://skillicons.dev/icons?i=html,css,react&theme=dark)](https://skillicons.dev)
+- HTML, CSS, React.js
 
 
 ### **Ferramentas & Plataformas**
-[![My Skills](https://skillicons.dev/icons?i=linux,arduino,aws,git,docker&theme=dark)](https://skillicons.dev)
+- Git/GitHub
+- Docker
+- CI/CD (GitHub Actions)
+- Linux (Ubuntu)
 
 ---
 
